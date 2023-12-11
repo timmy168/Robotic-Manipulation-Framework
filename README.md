@@ -117,5 +117,6 @@ Total Reward: 1.0 Done: True
 - Your Total Score : 10.000 / 10.000
 ====================================================================================
  ```
+![image](https://github.com/timmy168/Robotic-Manipulation-Framework/blob/main/simulation.jpg)
 # Reference
 https://github.com/google-research/ravens
