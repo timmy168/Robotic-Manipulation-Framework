@@ -1,5 +1,5 @@
 # Robotic-Manipulation-Framwork
-In this wok, implemented both forward kinematics (FK) and inverse kinematics (IK) functions to determine joint angles and velocities for controlling a 6-degree-of-freedom robot arm. The PyBullet simulation environment was employed to validate the functionality of these kinematic functions. Specifically, manipulated a UR5 robot arm, utilizing the simulation to perform a block insertion task as part of the verification process.
+In this wok, implemented both forward kinematics (FK) and inverse kinematics (IK) functions to determine joint angles and velocities for controlling a 6 DOF robot arm. The PyBullet simulation environment was employed to validate the functionality of these kinematic functions. Specifically, manipulated a UR5 robot arm, utilizing the simulation to perform a block insertion task as part of the verification process.
 
 # Requirement
 (1) Ubuntu 20.04
