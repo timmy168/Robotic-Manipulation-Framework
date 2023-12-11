@@ -27,7 +27,7 @@ conda install cudatoolkit==10.1.243 -y
 conda install cudnn==7.6.5 -y
 ```
 # Foward Kinematic Function
-- execution example
+- Execution example
 ```bash
 python fk.py
 pybullet build time: Sep 22 2020 00:55:20
@@ -48,7 +48,7 @@ current_dir=/home/timmy/pdm-f23/hw4/pybullet_robot_envs/envs/panda_envs
 ```
 
 # Inverse Kinematic Function
-- execution example
+- Execution example
 ```bash
 python ik.py
 
