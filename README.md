@@ -78,7 +78,7 @@ Test the ik implementation in the Transporter Networks 's frame work by inferenc
 **Step 2.** Download checkpoint at https://drive.google.com/file/d/1gEMNGTSXjMyvegp72ivbjCle0ntvcEVB/view?usp=drive_link and put the whole `checkpoints/` folder under `hw4/ravens/`
 
 **Step 3.** Testing the model and your ik implementation 
-- execution example
+- Execution example
  ```shell
 cd ravens
 CUDA_VISIBLE_DEVICES=-1 python ravens/test.py --assets_root=./ravens/environments/assets/ --disp=True --task=block-insertion-easy --agent=transporter --n_demos=1000 --n_steps=20000# No need to use GPU
